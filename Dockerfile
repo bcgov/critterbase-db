@@ -1,4 +1,4 @@
-FROM postgres:15
+FROM postgres:13
 
 # This is our time zone
 ENV TZ America/Vancouver
